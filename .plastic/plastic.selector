@@ -1,0 +1,4 @@
+repository "Tarabish2@TrilliumGroup@cloud"
+  path "/"
+    br "/main"
+    co "/main"
